@@ -1,0 +1,4 @@
+To use this script you you only need to type the following:
+
+./compileall
+./p4gradingscript port1 port2
